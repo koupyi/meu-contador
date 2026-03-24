@@ -11,7 +11,7 @@ function App() {
           marginBottom: "20px",
         }}
       >
-        Guilherme Duarte e Enzo Gabriel
+        Hector e Hector William 
       </h1>
 
       <Contador />
