@@ -11,7 +11,7 @@ function App() {
           marginBottom: "20px",
         }}
       >
-        Hector e Hector William 
+        Hector e Matheus Portela
       </h1>
 
       <Contador />
